@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/fritz-fritz/bookclerk">
-    <img src="https://raw.githubusercontent.com/fritz-fritz/bookclerk/main/ui/public/bookclerk-logo.svg" alt="Bookclerk" width="420">
+  <a href="https://github.com/Bookclerk/bookclerk">
+    <img src="https://raw.githubusercontent.com/Bookclerk/bookclerk/main/ui/public/bookclerk-logo.svg" alt="Bookclerk" width="420">
   </a>
 
   <br>
@@ -40,7 +40,7 @@ Like a good clerk in a favorite bookstore, Bookclerk takes care of the small but
 Bookclerk is being made in the open for readers, collectors, and audiobook lovers. It is growing carefully, with a focus on making your own library feel like your own.
 
 <p align="center">
-  <a href="https://github.com/fritz-fritz/bookclerk">Explore the project</a>
+  <a href="https://github.com/Bookclerk/bookclerk">Explore the project</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/fritz-fritz/bookclerk/tree/main/docs">Read the documentation</a>
+  <a href="https://github.com/Bookclerk/bookclerk/tree/main/docs">Read the documentation</a>
 </p>
